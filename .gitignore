@@ -1,0 +1,8 @@
+# Default ignored files
+
+/.idea/
+/__pycache__/
+/schemas/__pycache__/
+/model/__pycache__/
+/venv/
+/log/
